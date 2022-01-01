@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/hampta/css2csso/main/logo.png" alt="logo" width="75"/> CSS Weapons for CS:SO 
 
-CSS weapon for CS: SO with full glove support and StatTrak ™.
+CS:S weapons for CS:SO with full glove support and StatTrak ™.
 
 Video review:
 
