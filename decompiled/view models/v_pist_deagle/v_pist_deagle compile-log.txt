@@ -1,0 +1,92 @@
+// Created by Crowbar 0.71
+
+  Compiling "v_pist_deagle.qc" ...
+    Output from compiler "E:\Games\Counter-Strike Source\bin\studiomdl.exe": 
+      qdir:    "e:\games\counter-strike source\csso\custom\css2csso\decompiled\view models\v_pist_deagle\"
+      gamedir: "E:\Games\Counter-Strike Source\csso\"
+      g_path:  "v_pist_deagle.qc"
+      Building binary model files...
+      Working on "v_pist_deagle.qc"
+      SMD MODEL deserteagle.smd
+      SMD MODEL v_pist_deagle_anims\idle1.smd
+      SMD MODEL v_pist_deagle_anims\shoot1.smd
+      SMD MODEL v_pist_deagle_anims\shoot2.smd
+      SMD MODEL v_pist_deagle_anims\shoot3.smd
+      SMD MODEL v_pist_deagle_anims\shoot_empty.smd
+      SMD MODEL v_pist_deagle_anims\reload.smd
+      SMD MODEL v_pist_deagle_anims\draw.smd
+      SMD MODEL v_pist_deagle_anims\lookat01.smd
+      SMD MODEL v_pist_deagle_anims\lookat02.smd
+      ---------------------
+      writing E:\Games\Counter-Strike Source\csso\models/weapons\v_pist_deagle.mdl:
+      bones        12932 bytes (55)
+         animation       x       y       ips    angle
+            @idle1    0.00    0.00 :    0.00 (  90.00) 1.9
+           @shoot1    0.00    0.00 :    0.00 (  90.00) 0.7
+           @shoot2    0.00    0.00 :    0.00 (  90.00) 0.7
+           @shoot3    0.00    0.00 :    0.00 (  90.00) 0.7
+      @shoot_empty    0.00    0.00 :    0.00 (  90.00) 0.6
+           @reload    0.00    0.00 :    0.00 (  90.00) 2.2
+             @draw    0.00    0.00 :    0.00 (  90.00) 1.0
+         @lookat01    0.00    0.00 :    0.00 (  90.00) 1.0
+         @lookat02    0.00    0.00 :    0.00 (  90.00) 1.0
+      animations   77696 bytes (9 anims) (298 frames) [0:09]
+      sequences     3844 bytes (9 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures        72 bytes
+      keyvalues        0 bytes
+      bone transforms     7644 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total       104256
+      ---------------------
+      writing E:\Games\Counter-Strike Source\csso\models/weapons\v_pist_deagle.vvd:
+      vertices     59952 bytes (1249 vertices)
+      tangents     19984 bytes (1249 vertices)
+      total        80000 bytes
+      ---------------------
+      Generating optimized mesh "E:\Games\Counter-Strike Source\csso\models/weapons\v_pist_deagle.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      25 bytes
+      strips:            27 bytes
+      verts:          11241 bytes
+      indices:         5940 bytes
+      bone changes:       8 bytes
+      everything:     17314 bytes
+      ---------------------
+      Generating optimized mesh "E:\Games\Counter-Strike Source\csso\models/weapons\v_pist_deagle.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      25 bytes
+      strips:            27 bytes
+      verts:          11241 bytes
+      indices:         5940 bytes
+      bone changes:      56 bytes
+      everything:     17362 bytes
+      ---------------------
+      Generating optimized mesh "E:\Games\Counter-Strike Source\csso\models/weapons\v_pist_deagle.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      25 bytes
+      strips:            27 bytes
+      verts:          11241 bytes
+      indices:         5940 bytes
+      bone changes:      56 bytes
+      everything:     17362 bytes
+      
+      Completed "v_pist_deagle.qc"
+    CROWBAR: Moved compiled model file "E:\Games\Counter-Strike Source\csso\models\weapons\v_pist_deagle.dx80.vtx" to "E:\Games\Counter-Strike Source\csso\custom\css2csso\models\weapons"
+    CROWBAR: Moved compiled model file "E:\Games\Counter-Strike Source\csso\models\weapons\v_pist_deagle.dx90.vtx" to "E:\Games\Counter-Strike Source\csso\custom\css2csso\models\weapons"
+    CROWBAR: Moved compiled model file "E:\Games\Counter-Strike Source\csso\models\weapons\v_pist_deagle.mdl" to "E:\Games\Counter-Strike Source\csso\custom\css2csso\models\weapons"
+    CROWBAR: Moved compiled model file "E:\Games\Counter-Strike Source\csso\models\weapons\v_pist_deagle.sw.vtx" to "E:\Games\Counter-Strike Source\csso\custom\css2csso\models\weapons"
+    CROWBAR: Moved compiled model file "E:\Games\Counter-Strike Source\csso\models\weapons\v_pist_deagle.vvd" to "E:\Games\Counter-Strike Source\csso\custom\css2csso\models\weapons"
+  ... Compiling "v_pist_deagle.qc" finished. Check above for any errors.

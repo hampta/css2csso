@@ -1,0 +1,109 @@
+// Created by Crowbar 0.71
+
+  Compiling "v_rif_m4a1_s.qc" ...
+    Output from compiler "E:\Games\Counter-Strike Source\bin\studiomdl.exe": 
+      qdir:    "e:\games\counter-strike source\csso\custom\css2csso\decompiled\view models\v_rif_m4a1_s\"
+      gamedir: "E:\Games\Counter-Strike Source\csso\"
+      g_path:  "v_rif_m4a1_s.qc"
+      Building binary model files...
+      Working on "v_rif_m4a1_s.qc"
+      SMD MODEL m4a1_reference_by_gulyash.smd
+      SMD MODEL silencer_reference.smd
+      SMD MODEL v_rif_m4a1_s_anims\@idle_reposition_difference_corrective_animation.smd
+      SMD MODEL v_rif_m4a1_s_anims\idle_reposition_difference.smd
+      SMD MODEL v_rif_m4a1_s_anims\idle.smd
+      SMD MODEL v_rif_m4a1_s_anims\add_silencer.smd
+      SMD MODEL v_rif_m4a1_s_anims\detach_silencer.smd
+      SMD MODEL v_rif_m4a1_s_anims\shoot1.smd
+      SMD MODEL v_rif_m4a1_s_anims\shoot2.smd
+      SMD MODEL v_rif_m4a1_s_anims\shoot3.smd
+      SMD MODEL v_rif_m4a1_s_anims\reload.smd
+      SMD MODEL v_rif_m4a1_s_anims\draw.smd
+      SMD MODEL v_rif_m4a1_s_anims\draw_silenced.smd
+      SMD MODEL v_rif_m4a1_s_anims\lookat01.smd
+      SMD MODEL v_rif_m4a1_s_anims\lookat01_prepare.smd
+      SMD MODEL v_rif_m4a1_s_anims\lookat01_loop.smd
+      ---------------------
+      writing E:\Games\Counter-Strike Source\csso\models/weapons\v_rif_m4a1_s.mdl:
+      bones        11140 bytes (46)
+         animation       x       y       ips    angle
+      @idle_reposition_difference_corrective_animation    0.00    0.00 :   -1.#J (  90.00) 0.0
+      @idle_reposition_difference    0.00    0.00 :    0.00 (  90.00) 0.3
+             @idle    0.00    0.00 :    0.00 (  90.00) 0.5
+      @add_silencer    0.00    0.00 :    0.00 (  90.00) 4.0
+      @detach_silencer    0.00    0.00 :    0.00 (  90.00) 4.0
+           @shoot1    0.00    0.00 :    0.00 (  90.00) 0.4
+           @shoot2    0.00    0.00 :    0.00 (  90.00) 0.4
+           @shoot3    0.00    0.00 :    0.00 (  90.00) 0.4
+           @reload    0.00    0.00 :    0.00 (  90.00) 3.1
+             @draw    0.00    0.00 :    0.00 (  90.00) 1.0
+      @draw_silenced    0.00    0.00 :    0.00 (  90.00) 1.0
+         @lookat01    0.00    0.00 :    0.00 (  90.00) 0.3
+      @lookat01_prepare    0.00    0.00 :    0.00 (  90.00) 0.3
+      @lookat01_loop    0.00    0.00 :    0.00 (  90.00) 0.5
+      animations  111376 bytes (14 anims) (389 frames) [0:16]
+      sequences     5232 bytes (13 seq) 
+      ik/pose        476 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures        72 bytes
+      keyvalues        0 bytes
+      bone transforms     6320 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total       136812
+      ---------------------
+      writing E:\Games\Counter-Strike Source\csso\models/weapons\v_rif_m4a1_s.vvd:
+      vertices    101376 bytes (2112 vertices)
+      vertices      2592 bytes (54 vertices)
+      tangents     33792 bytes (2112 vertices)
+      tangents       864 bytes (54 vertices)
+      total       138688 bytes
+      ---------------------
+      Generating optimized mesh "E:\Games\Counter-Strike Source\csso\models/weapons\v_rif_m4a1_s.sw.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            18 bytes
+      strip groups:      50 bytes
+      strips:            54 bytes
+      verts:          19494 bytes
+      indices:        10914 bytes
+      bone changes:       8 bytes
+      everything:     30650 bytes
+      ---------------------
+      Generating optimized mesh "E:\Games\Counter-Strike Source\csso\models/weapons\v_rif_m4a1_s.dx80.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            18 bytes
+      strip groups:      50 bytes
+      strips:            54 bytes
+      verts:          19494 bytes
+      indices:        10914 bytes
+      bone changes:      48 bytes
+      everything:     30690 bytes
+      ---------------------
+      Generating optimized mesh "E:\Games\Counter-Strike Source\csso\models/weapons\v_rif_m4a1_s.dx90.vtx":
+      body parts:        16 bytes
+      models:            60 bytes
+      model LODs:        36 bytes
+      meshes:            18 bytes
+      strip groups:      50 bytes
+      strips:            54 bytes
+      verts:          19494 bytes
+      indices:        10914 bytes
+      bone changes:      48 bytes
+      everything:     30690 bytes
+      
+      Completed "v_rif_m4a1_s.qc"
+    CROWBAR: Moved compiled model file "E:\Games\Counter-Strike Source\csso\models\weapons\v_rif_m4a1_s.dx80.vtx" to "E:\Games\Counter-Strike Source\csso\custom\css2csso\models\weapons"
+    CROWBAR: Moved compiled model file "E:\Games\Counter-Strike Source\csso\models\weapons\v_rif_m4a1_s.dx90.vtx" to "E:\Games\Counter-Strike Source\csso\custom\css2csso\models\weapons"
+    CROWBAR: Moved compiled model file "E:\Games\Counter-Strike Source\csso\models\weapons\v_rif_m4a1_s.mdl" to "E:\Games\Counter-Strike Source\csso\custom\css2csso\models\weapons"
+    CROWBAR: Moved compiled model file "E:\Games\Counter-Strike Source\csso\models\weapons\v_rif_m4a1_s.sw.vtx" to "E:\Games\Counter-Strike Source\csso\custom\css2csso\models\weapons"
+    CROWBAR: Moved compiled model file "E:\Games\Counter-Strike Source\csso\models\weapons\v_rif_m4a1_s.vvd" to "E:\Games\Counter-Strike Source\csso\custom\css2csso\models\weapons"
+  ... Compiling "v_rif_m4a1_s.qc" finished. Check above for any errors.
